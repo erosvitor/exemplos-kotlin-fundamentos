@@ -10,6 +10,7 @@ fun main() {
     println(PI)
 
     // Mesclando texto fixo com conteúdo de variável
+    println("O valor da constante PI é " + PI)
     println("O valor da constante PI é $PI")
 
     // Mostrando dados sem pular linha

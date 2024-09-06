@@ -1,14 +1,10 @@
 package com.ctseducare.kotlin.k01_variables_datatypes
 
-val tmp = sayHello()        // No error
-//const val tmp = sayHello()  // Error
-
-fun sayHello():String{
-    return "Hello"
-}
-
 fun main() {
 
-    println(tmp)
+    val PI = 3.1415f
+    println(PI)
+
+    //PI = 3.14f  // Não vai aceitar o novo valor
 
 }

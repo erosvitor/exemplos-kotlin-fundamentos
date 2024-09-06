@@ -1,4 +1,4 @@
-package com.ctseducare.kotlin.k07_arrays
+package com.ctseducare.kotlin.k07_arrays_matrices
 
 fun main() {
 

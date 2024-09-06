@@ -24,4 +24,10 @@ fun main() {
     val altura = read.nextFloat()
     println("Sua altura é $altura")
 
+    // Comando readln
+    // --------------------------------------------------------------------------------
+    print("Qual é o nome do seu país: ")
+    val pais = readln()
+    println("Você mora no(a) " + pais)
+
 }
